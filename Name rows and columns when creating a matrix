@@ -15,5 +15,4 @@ m <- matrix(1:9, nrow = 3)
 rownames(m) <- c("A", "B", "C")
 colnames(m) <- c("X", "Y", "Z")
 
-
 m
